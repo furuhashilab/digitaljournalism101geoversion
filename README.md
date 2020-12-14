@@ -1,6 +1,6 @@
 # メディアリテラシーにも役立つ「デジタル報道101」ジオ向けカスタマイズ版
 
-原文: https://bit.ly/3gJkdag © 古田大輔作成, Vol.2.0（2020/12/14）,CC BY 4.0 から Fork
+原文: https://bit.ly/3gJkdag © 古田大輔作成, Vol.2.0（2020/12/14）,[CC BY 4.0](https://github.com/furuhashilab/digitaljournalism101geoversion/blob/main/LICENSE) から Fork
 
 とりあえず、原文テキストをそのままペースト。順次Markdown化しつつ、古橋研究室用にジオ系ノウハウを追記・修正していきます（汎用的なものは原文に提案予定）。
 
